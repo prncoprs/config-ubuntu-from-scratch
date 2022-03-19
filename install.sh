@@ -35,4 +35,6 @@ pip3 install thefuck --user
 
 sudo apt install build-essential cmake gcc ninja-build
 
+sudo chown -R $USER:$USER /opt
 # install google-chrome vscode clion
+
