@@ -7,7 +7,7 @@ sudo apt update && sudo apt upgrade
 # install aditional drivers
 # set network proxy 
 
-sudo apt install zsh git vim wget curl net-tools bat tilix terminator gnome-tweaks
+sudo apt install zsh git vim wget curl net-tools bat tilix terminator gnome-tweaks htop locate
 
 # install oh-my-zsh
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
